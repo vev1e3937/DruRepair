@@ -40,7 +40,7 @@
             style="@style/EditTextInput3"
             android:layout_gravity="center"
             android:layout_marginTop="15dp"
-            android:text="ผู้ใช้งาน" />
+            android:text="ข้อมูลผู้ใช้งาน" />
 
     </LinearLayout>
 
